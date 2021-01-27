@@ -33,7 +33,7 @@ const App = () => {
   return (
     <div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
-        <Link to={"/"} className="navbar-brand">Shailesh Ticket Booking</Link>
+        <Link to={"/"} className="navbar-brand">Ticket Booking</Link>
 
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
